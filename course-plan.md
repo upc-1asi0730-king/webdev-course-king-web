@@ -8,7 +8,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia previa en programación  
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** Navegador web y editores online  
-**Repositorio de código fuente:** https://github.com/upc-1asi0730-king-web/webdev-course-king-web
+**Repositorio de código fuente:** https://github.com/upc-1asi0730-king/webdev-course-king-web
 
 ## Secuencia de lecciones
 
