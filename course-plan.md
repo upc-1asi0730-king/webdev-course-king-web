@@ -12,18 +12,18 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 
 ## Secuencia de lecciones
 
-| Lección | Tema | Responsable | Duración estimada | Video | Práctica online |
-|---|---|---|---:|---|---|
-| 01 | ¿Qué es una página web? | Diego | 5-6 min | Pendiente | Pendiente |
-| 02 | Primer contacto con CodePen | Cesar | 5-6 min | Pendiente | Pendiente |
-| 03 | Estructura básica de HTML | Joaquin | 5-6 min | Pendiente | Pendiente |
-| 04 | Textos y listas en HTML | Gino | 5-6 min | Pendiente | Pendiente |
-| 05 | Imágenes y enlaces | Gerard | 5-6 min | Pendiente | Pendiente |
-| 06 | Introducción a CSS | Diego | 5-6 min | Pendiente | Pendiente |
-| 07 | Selectores y propiedades CSS | Cesar | 5-6 min | Pendiente | Pendiente |
-| 08 | Bordes, márgenes y espaciado | Joaquin | 5-6 min | Pendiente | Pendiente |
-| 09 | Centrado y diseño simple | Gino | 5-6 min | Pendiente | Pendiente |
-| 10 | Proyecto final y errores comunes | Gerard | 5-6 min | Pendiente | Pendiente |
+| Lección | Tema | Duración estimada | Video | Práctica online |
+|---|---|---|---:|---|
+| 01 | ¿Qué es una página web? | 5-6 min | Pendiente | Pendiente |
+| 02 | Primer contacto con CodePen | 5-6 min | Pendiente | Pendiente |
+| 03 | Estructura básica de HTML | 5-6 min | Pendiente | Pendiente |
+| 04 | Textos y listas en HTML | 5-6 min | Pendiente | Pendiente |
+| 05 | Imágenes y enlaces | 5-6 min | Pendiente | Pendiente |
+| 06 | Introducción a CSS | 5-6 min | Pendiente | Pendiente |
+| 07 | Selectores y propiedades CSS | 5-6 min | Pendiente | Pendiente |
+| 08 | Bordes, márgenes y espaciado | 5-6 min | Pendiente | Pendiente |
+| 09 | Centrado y diseño simple | 5-6 min | Pendiente | Pendiente |
+| 10 | Proyecto final y errores comunes | 5-6 min | Pendiente | Pendiente |
 
 ## Proyecto final del curso
 
@@ -38,17 +38,4 @@ Al finalizar el curso, el estudiante habrá creado una página web personal bás
 
 ## Elaboración en equipo
 
-Universidad Peruana de Ciencias Aplicadas  
-Carrera de Ingeniería de Software  
-Curso: 1ASI0730 Aplicaciones Web  
-Período: 202610  
-Nombre del equipo: king-web  
-Team Leader: Diego  
-
-### Integrantes
-
-- Cesar
-- Joaquin
-- Gino
-- Diego
-- Gerard
+Nombre del equipo: king-web 
