@@ -1,0 +1,21 @@
+body {
+  background-color: #eef2ff;
+  color: #1f2937;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+h2 {
+  color: #374151;
+}
+
+p {
+  line-height: 1.6;
+}
+
+img {
+  width: 260px;
+}
