@@ -17,12 +17,12 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 | 01 | ¿Qué es una página web? | 5-6 min | https://youtu.be/XgHcrAvgUEA | Starter: https://codepen.io/King-Web/pen/GgrrWEW / Completed: https://codepen.io/King-Web/pen/NPddpYM |
 | 02 | Primer contacto con CodePen | 5-6 min | https://youtu.be/7pXVAQpcvHQ | Starter: https://codepen.io/King-Web/pen/QwdGPYY / Completed: https://codepen.io/King-Web/pen/ogBYORW |
 | 03 | Estructura básica de HTML | 5-6 min | https://youtu.be/1wjmWflE1Xw | Starter: https://codepen.io/King-Web/pen/vEggmLp / Completed: https://codepen.io/King-Web/pen/ogBBWgW |
-| 04 | Textos y listas en HTML | 5-6 min | https://youtu.be/NtwUmrf7FZE | Starter: https://codepen.io/King-Web/pen/ogBBWOy / Completed: https://codepen.io/King-Web/pen/ByppREX |
+| 04 | Textos y listas en HTML | 8-9 min | https://youtu.be/NtwUmrf7FZE | Starter: https://codepen.io/King-Web/pen/ogBBWOy / Completed: https://codepen.io/King-Web/pen/ByppREX |
 | 05 | Imágenes y enlaces | 5-6 min | https://youtu.be/UiAE2Z7bfjc | Starter: https://codepen.io/King-Web/pen/rajWQdr / Completed: https://codepen.io/King-Web/pen/rajWQvr |
 | 06 | Introducción a CSS | 5-6 min | https://youtu.be/F5F1yCJGqjk | Starter: https://codepen.io/King-Web/pen/OPWWmLE / Completed: https://codepen.io/King-Web/pen/jEyyBgJ |
-| 07 | Selectores y propiedades CSS | 5-8 min | https://youtu.be/kAKdRncFcEs  | Starter: https://codepen.io/King-Web/pen/LExbvMb / Completed: https://codepen.io/King-Web/pen/JoEbqPE |
+| 07 | Selectores y propiedades CSS | 7-8 min | https://youtu.be/kAKdRncFcEs  | Starter: https://codepen.io/King-Web/pen/LExbvMb / Completed: https://codepen.io/King-Web/pen/JoEbqPE |
 | 08 | Bordes, márgenes y espaciado | 5-6 min | https://youtu.be/Q6HUNHK0JAU | Starter: https://codepen.io/King-Web/pen/ZYLLKQY / Completed: https://codepen.io/King-Web/pen/bNggWNQ |
-| 09 | Centrado y diseño simple | 5-6 min | https://youtu.be/ZEJTRgEej7I | Starter: https://codepen.io/King-Web/pen/rajjmaV / Completed: https://codepen.io/King-Web/pen/EaZZmjK |
+| 09 | Centrado y diseño simple | 8-9 min | https://youtu.be/ZEJTRgEej7I | Starter: https://codepen.io/King-Web/pen/rajjmaV / Completed: https://codepen.io/King-Web/pen/EaZZmjK |
 | 10 | Proyecto final y errores comunes | 5-6 min | https://youtu.be/jDa30bN7f0M | Starter: https://codepen.io/King-Web/pen/BypQMyG / Completed: https://codepen.io/King-Web/pen/jEyVdEj |
 
 ## Proyecto final del curso
