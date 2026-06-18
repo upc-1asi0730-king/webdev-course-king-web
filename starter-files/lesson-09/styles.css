@@ -1,0 +1,46 @@
+body {
+  background-color: #eef2ff;
+  color: #1f2937;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+h2 {
+  color: #374151;
+}
+
+p {
+  line-height: 1.6;
+}
+
+img {
+  width: 260px;
+  border-radius: 12px;
+}
+
+.profile-card {
+  background-color: white;
+  border: 2px solid #dbeafe;
+  border-radius: 16px;
+  padding: 24px;
+  margin: 32px;
+}
+
+.intro {
+  font-size: 18px;
+  color: #4b5563;
+}
+
+.highlight {
+  color: #2563eb;
+  font-weight: bold;
+}
+
+section {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 16px;
+  margin-top: 16px;
+}
