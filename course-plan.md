@@ -22,7 +22,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 | 06 | Introducción a CSS | 5-6 min | https://youtu.be/F5F1yCJGqjk | Starter: https://codepen.io/King-Web/pen/OPWWmLE / Completed: https://codepen.io/King-Web/pen/jEyyBgJ |
 | 07 | Selectores y propiedades CSS | 5-8 min | https://youtu.be/kAKdRncFcEs  | Starter: https://codepen.io/King-Web/pen/LExbvMb / Completed: https://codepen.io/King-Web/pen/JoEbqPE |
 | 08 | Bordes, márgenes y espaciado | 5-6 min | https://youtu.be/Q6HUNHK0JAU | Starter: https://codepen.io/King-Web/pen/ZYLLKQY / Completed: https://codepen.io/King-Web/pen/bNggWNQ |
-| 09 | Centrado y diseño simple | 5-6 min | Pendiente | Pendiente |
+| 09 | Centrado y diseño simple | 5-6 min | https://youtu.be/ZEJTRgEej7I | Starter: https://codepen.io/King-Web/pen/rajjmaV / Completed: https://codepen.io/King-Web/pen/EaZZmjK |
 | 10 | Proyecto final y errores comunes | 5-6 min | https://youtu.be/jDa30bN7f0M | Starter: https://codepen.io/King-Web/pen/BypQMyG / Completed: https://codepen.io/King-Web/pen/jEyVdEj |
 
 ## Proyecto final del curso
