@@ -16,7 +16,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 |---|---|---|---:|---|
 | 01 | ¿Qué es una página web? | 5-6 min | https://youtu.be/XgHcrAvgUEA | Starter: https://codepen.io/King-Web/pen/GgrrWEW / Completed: https://codepen.io/King-Web/pen/NPddpYM |
 | 02 | Primer contacto con CodePen | 5-6 min | https://youtu.be/7pXVAQpcvHQ | Starter: https://codepen.io/King-Web/pen/QwdGPYY / Completed: https://codepen.io/King-Web/pen/ogBYORW |
-| 03 | Estructura básica de HTML | 5-6 min | Pendiente | Pendiente |
+| 03 | Estructura básica de HTML | 5-6 min | https://youtu.be/1wjmWflE1Xw | Starter: https://codepen.io/King-Web/pen/vEggmLp / Completed: https://codepen.io/King-Web/pen/ogBBWgW |
 | 04 | Textos y listas en HTML | 5-6 min | Pendiente | Pendiente |
 | 05 | Imágenes y enlaces | 5-6 min | https://youtu.be/UiAE2Z7bfjc | Starter: https://codepen.io/King-Web/pen/rajWQdr / Completed: https://codepen.io/King-Web/pen/rajWQvr |
 | 06 | Introducción a CSS | 5-6 min | https://youtu.be/F5F1yCJGqjk | Starter: https://codepen.io/King-Web/pen/OPWWmLE / Completed: https://codepen.io/King-Web/pen/jEyyBgJ |
