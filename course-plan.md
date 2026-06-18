@@ -7,7 +7,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 **Duración total:** Aproximadamente 1 hora  
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia previa en programación  
 **Prerrequisitos:** Ninguno  
-**Herramientas necesarias:** Navegador web y editores online  
+**Herramientas necesarias:** Navegador web y editores online, CodePen 
 **Repositorio de código fuente:** https://github.com/upc-1asi0730-king/webdev-course-king-web
 
 ## Secuencia de lecciones
@@ -21,7 +21,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 | 05 | Imágenes y enlaces | 5-6 min | https://youtu.be/UiAE2Z7bfjc | Starter: https://codepen.io/King-Web/pen/rajWQdr / Completed: https://codepen.io/King-Web/pen/rajWQvr |
 | 06 | Introducción a CSS | 5-6 min | https://youtu.be/F5F1yCJGqjk | Starter: https://codepen.io/King-Web/pen/OPWWmLE / Completed: https://codepen.io/King-Web/pen/jEyyBgJ |
 | 07 | Selectores y propiedades CSS | 5-8 min | https://youtu.be/kAKdRncFcEs  | Starter: https://codepen.io/King-Web/pen/LExbvMb / Completed: https://codepen.io/King-Web/pen/JoEbqPE |
-| 08 | Bordes, márgenes y espaciado | 5-6 min | Pendiente | Pendiente |
+| 08 | Bordes, márgenes y espaciado | 5-6 min | https://youtu.be/Q6HUNHK0JAU | Starter: https://codepen.io/King-Web/pen/ZYLLKQY / Completed: https://codepen.io/King-Web/pen/bNggWNQ |
 | 09 | Centrado y diseño simple | 5-6 min | Pendiente | Pendiente |
 | 10 | Proyecto final y errores comunes | 5-6 min | https://youtu.be/jDa30bN7f0M | Starter: https://codepen.io/King-Web/pen/BypQMyG / Completed: https://codepen.io/King-Web/pen/jEyVdEj |
 
