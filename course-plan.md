@@ -18,7 +18,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 | 02 | Primer contacto con CodePen | 5-6 min | https://youtu.be/7pXVAQpcvHQ | Starter: https://codepen.io/King-Web/pen/QwdGPYY / Completed: https://codepen.io/King-Web/pen/ogBYORW |
 | 03 | Estructura básica de HTML | 5-6 min | Pendiente | Pendiente |
 | 04 | Textos y listas en HTML | 5-6 min | Pendiente | Pendiente |
-| 05 | Imágenes y enlaces | 5-6 min | Pendiente | Pendiente |
+| 05 | Imágenes y enlaces | 5-6 min | https://youtu.be/UiAE2Z7bfjc | Starter: https://codepen.io/King-Web/pen/rajWQdr / Completed: https://codepen.io/King-Web/pen/rajWQvr |
 | 06 | Introducción a CSS | 5-6 min | https://youtu.be/F5F1yCJGqjk | Starter: https://codepen.io/King-Web/pen/OPWWmLE / Completed: https://codepen.io/King-Web/pen/jEyyBgJ |
 | 07 | Selectores y propiedades CSS | 5-8 min | https://youtu.be/kAKdRncFcEs  | Starter: https://codepen.io/King-Web/pen/LExbvMb / Completed: https://codepen.io/King-Web/pen/JoEbqPE |
 | 08 | Bordes, márgenes y espaciado | 5-6 min | Pendiente | Pendiente |
